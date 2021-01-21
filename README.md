@@ -11,6 +11,7 @@ You don't need to know any programming skill to make PR or contribute to this re
 ### What can you do to contribute to this repo?
 
 This repo is just for practise purpose, hence you can just add a folder in this repository. Name the folder as your GitHub username and inside that folder, you can add anything you like. Some suggestions will be that you can add any code, or project in any programming language you like, or you can simply add a readme file in that repo and write why you started with Open-source.</br>
+Check out the issue created for this purpose (here)[https://github.com/swati-gwc/MakeYourFirst_PR/issues/1].</br>
 NOTE: THE FOLDER YOU WILL ADD MUST NOT BE EMPTY!
 
 ### Steps to make a PR
