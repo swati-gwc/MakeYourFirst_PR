@@ -1,14 +1,16 @@
-# Make Your First PR ON GitHub
+# Make Your First PR on GitHub
 
-For people who want to learn how to make a pull request to someone's repository. 
-Feel Free to make a PR to this repo!!
-No need to get scared and confused !! You may make mistake while creating a PR to this repo, but that is totally fine. This is exactly the reason why this repository is created. So you can TRY, FAIL, LEARN and then IMPROVE. :)
+For people who want to learn how to make a pull request to someone's repository. </br>
+Feel Free to make a PR to this repo!!</br>
+No need to get scared and confused !!</br>
+You may make mistake while creating a PR to this repo, but that is totally fine. This is exactly the reason why this repository is created.</br>
+So you can TRY, FAIL, LEARN and then IMPROVE. :)
 
-You don't need to know any programming skill to make PR or contribute to this repository either, just follow the steps below and try to make a PR today.
+You don't need to know any programming skill to make PR or contribute to this repository either, just follow the steps below and try to make a PR today!
 
 ### What can you do to contribute to this repo?
 
-This repo is just for practise purpose, hence you can just add a folder in this repository. Name the folder as your GitHub username and inside that folder, you can add anything you like. Some suggestions will be that you can add any code, or project in any programming language you like, or you can simply add a readme file in that repo and write why you started with Open-source.
+This repo is just for practise purpose, hence you can just add a folder in this repository. Name the folder as your GitHub username and inside that folder, you can add anything you like. Some suggestions will be that you can add any code, or project in any programming language you like, or you can simply add a readme file in that repo and write why you started with Open-source.</br>
 NOTE: THE FOLDER YOU WILL ADD MUST NOT BE EMPTY!
 
 ### Steps to make a PR
@@ -39,8 +41,8 @@ Following are the steps to guide you:
     ```
     git push origin <branch-name>
     ```
-* Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why are you contributing. You can write, "Contribution to issue #1")
+* Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why are you contributing. You can write, ("Contribution to issue #1")
 
 
-The above rules may seem hard to follow. But every beginner feels the same and most importantly when you will start to make PR's to real projects, in future, you have to adhere to Contributing rules they have set. Otherwise, your PR will not get merged and your efforts will go waste. So make it a practise write from start.
+The above rules may seem hard to follow. But every beginner feels the same and most importantly when you will start to make PR's to real projects, in future, you have to adhere to Contributing rules they have set. Otherwise, your PR will not get merged and your efforts will go waste. So make it a practise right from start.
 
