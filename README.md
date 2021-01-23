@@ -1,7 +1,7 @@
 # Make Your First PR on GitHub
 
 For people who are new to GitHub and want to make their first PR.</br>
-No need to get scared and confused !! Thir repo is just for your practise.</br>
+No need to get scared and confused !! This repo is just for your practise.</br>
 You may make mistake while creating a PR to this repo, but that is totally fine. This is exactly the reason why this repository is created.</br>
 So you can TRY, FAIL, LEARN and then IMPROVE. :)
 
