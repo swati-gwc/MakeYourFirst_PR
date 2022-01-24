@@ -32,16 +32,20 @@ Following are the steps to guide you:
 * Step 4: Create your feature branch (This is a necessary step, so don't skip it. Also, name the branch as your own name/username)
     ```
     git checkout -b <feature-name>
+
+* Step 5: Move the changes you made on your feature branch from your local working directory to the staging area (Index). For this you use the following command
     ```
-* Step 5: Commit all the changes (Write commit message as "My first PR")
+    git add <file-name>
+
+* Step 6: Commit all the changes (Write commit message as "My first PR")
     ```
     git commit -m "Write a meaningfull but small commit message"
     ```
-* Step 6: Push the changes for review
+* Step 7: Push the changes for review
     ```
     git push origin <branch-name>
     ```
-* Step 7: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why are you contributing. You can write, "Contribution to issue #1" . )
+* Step 8: Create a PR on Github. (Don't just hit the create a pull request button, you must write a PR message to clarify why are you contributing. You can write, "Contribution to issue #1" . )
 
 
 The above rules may seem hard to follow. But every beginner feels the same and most importantly when you will start to make PR's to real projects, in future, you have to adhere to Contributing rules they have set. Otherwise, your PR will not get merged and your efforts will go waste. So make it a practise right from start.
